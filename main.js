@@ -30,9 +30,9 @@ class Personne {
         this.nom = nom,
         this.lieu = lieu,
         this.argent = argent,
-        this.panier = panier
-        this.se_deplacer = (x) => {}
-        this.payer = (x) => {}
+        this.panier = panier,
+        this.se_deplacer = (x) => {},
+        this.payer = (x) => {},
         this.couper = (x,y) => {}
     }
 }
